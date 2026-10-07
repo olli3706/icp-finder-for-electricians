@@ -1,0 +1,13 @@
+rank,status,name,owner,band,score,confidence,structure,base_town,county,reviews_12mo,vat,throughput_pts,recency_pts,quoting_pts,revenue_pts,breadth_pts,credibility_pts,checkatrade_url,companies_house_url
+1,qualified,A&B Electrical Services,Mr Altin Basha,High,80,high,sole_trader,Barnet,Hertfordshire,56,no,30,15,15,5,10,5,https://www.checkatrade.com/trades/aandbelectricalservices,
+2,qualified,A Class Electrical,Mr Trevor Banton,Medium,55,high,sole_trader,London,,8,no,13,2,20,5,10,5,https://www.checkatrade.com/trades/aclasselectrical319325,
+3,needs_verification,Contact Electrician Ltd,Mr Klisman Licaj,High,90,medium,limited,Coulsdon,,192,yes,30,15,20,15,7,3,https://www.checkatrade.com/trades/contactelectricianltd,
+4,needs_verification,Adam Electrical Limited,Mr Abdallah Reda,High,87,medium,limited,London,,16,yes,20,20,20,15,7,5,https://www.checkatrade.com/trades/adamelectricallimited5923733,
+5,needs_verification,Wire Now Ltd,Mr Tolga Aramaz,High,87,medium,limited,Cheshunt,,24,yes,25,20,15,15,7,5,https://www.checkatrade.com/trades/wirenowltd,
+6,needs_verification,Hale Electrics Ltd,Mr Calvin Hale,High,82,medium,limited,Orpington,Kent,37,yes,30,2,20,15,10,5,https://www.checkatrade.com/trades/haleelectricsltd,
+7,needs_verification,Down To Earth Electrical Contractors,Mr Richard Moloney,High,79,medium,limited,London,,86,yes,30,2,20,15,7,5,https://www.checkatrade.com/trades/downtoearthelectricalcontractorsltd,
+8,needs_verification,Richard Uri Electrical Services Ltd,Mr Richard Uri,High,78,medium,limited,Bromley,United Kingdom,117,no,30,15,15,5,10,3,https://www.checkatrade.com/trades/richardurielectricalservicesltd,
+9,needs_verification,Rama Electrical Limited,,High,75,medium,limited,Harrow,Greater London,117,no,30,15,15,5,7,3,https://www.checkatrade.com/trades/ramaelectricallimited,
+10,needs_verification,Luxtric Ltd,,High,73,medium,limited,Haringey United Kingdom,,6,no,13,20,20,5,10,5,https://www.checkatrade.com/trades/luxtricltd,
+11,needs_verification,HandyExperts,Mr Dominic Chapman,High,70,medium,limited,Nationwide,,167,yes,30,5,5,15,10,5,https://www.checkatrade.com/trades/handyexperts,
+12,needs_verification,District Group Services Ltd,Mr Jordan Hiatt,Medium,69,medium,limited,New Malden,,37,no,30,15,10,5,4,5,https://www.checkatrade.com/trades/districtgroupservices,

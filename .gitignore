@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.key
+
+# Cache of fetched pages
+data/cache/
+# Dedicated browser profile used by the CDP collection engine
+data/chrome-profile/
+# Archived previous collections
+data/archive/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store

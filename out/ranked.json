@@ -1,0 +1,921 @@
+{
+  "funnel": {
+    "collected": 13,
+    "failed_owner_operator": 0,
+    "failed_active": 1,
+    "needs_verification": 10,
+    "qualified": 2,
+    "high": 1,
+    "medium": 1,
+    "low": 0
+  },
+  "ranked": [
+    {
+      "slug": "aandbelectricalservices",
+      "name": "A&B Electrical Services",
+      "owner": "Mr Altin Basha",
+      "structure": "sole_trader",
+      "base_town": "Barnet",
+      "county": "Hertfordshire",
+      "status": "qualified",
+      "gates": {
+        "owner_operator": {
+          "state": "pass",
+          "evidence": "Checkatrade lists structure as sole trader"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "56 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/aandbelectricalservices",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 56,
+      "reviews_total": 95,
+      "vat": "no",
+      "score": 80,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "56 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 15,
+          "evidence": "2.6 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 15,
+          "evidence": "quotable work: EV charger, rewires, consumer units",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "32 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "5 accreditation(s): CITY & GUILDS;City & Guilds Qualified - Level 2;EAL Qualified;ELECSA - Part-P Domestic Installer;NICEIC - Part-P Domestic Installer",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "high"
+    },
+    {
+      "slug": "aclasselectrical319325",
+      "name": "A Class Electrical",
+      "owner": "Mr Trevor Banton",
+      "structure": "sole_trader",
+      "base_town": "London",
+      "county": "",
+      "status": "qualified",
+      "gates": {
+        "owner_operator": {
+          "state": "pass",
+          "evidence": "Checkatrade lists structure as sole trader"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "8 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/aclasselectrical319325",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 8,
+      "reviews_total": 154,
+      "vat": "no",
+      "score": 55,
+      "band": "Medium",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 13,
+          "evidence": "8 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 2,
+          "evidence": "10.4 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "31 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "3 accreditation(s): NICEIC - Approved Contractor;NICEIC - PAT Testing;NICEIC - ",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "high"
+    }
+  ],
+  "needs_verification": [
+    {
+      "slug": "contactelectricianltd",
+      "name": "Contact Electrician Ltd",
+      "owner": "Mr Klisman Licaj",
+      "structure": "limited",
+      "base_town": "Coulsdon",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "192 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/contactelectricianltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 192,
+      "reviews_total": 469,
+      "vat": "yes",
+      "score": 90,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "192 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 15,
+          "evidence": "2.7 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 7,
+          "evidence": "23 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 3,
+          "evidence": "1 accreditation(s): NAPIT - Electrical",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "adamelectricallimited5923733",
+      "name": "Adam Electrical Limited",
+      "owner": "Mr Abdallah Reda",
+      "structure": "limited",
+      "base_town": "London",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "16 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/adamelectricallimited5923733",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 16,
+      "reviews_total": 16,
+      "vat": "yes",
+      "score": 87,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 20,
+          "evidence": "16 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 20,
+          "evidence": "0.8 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 7,
+          "evidence": "17 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "2 accreditation(s): NICEIC - Approved Contractor;NICEIC - Part-P Domestic Installer",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "wirenowltd",
+      "name": "Wire Now Ltd",
+      "owner": "Mr Tolga Aramaz",
+      "structure": "limited",
+      "base_town": "Cheshunt",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "24 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/wirenowltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 24,
+      "reviews_total": 24,
+      "vat": "yes",
+      "score": 87,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 25,
+          "evidence": "24 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 20,
+          "evidence": "0.3 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 15,
+          "evidence": "quotable work: rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 7,
+          "evidence": "24 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "5 accreditation(s): BAFE;Constructionline;NICEIC - Approved Contractor;NICEIC - Part-P Domestic Installer;Trustmark",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "haleelectricsltd",
+      "name": "Hale Electrics Ltd",
+      "owner": "Mr Calvin Hale",
+      "structure": "limited",
+      "base_town": "Orpington",
+      "county": "Kent",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "37 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/haleelectricsltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 37,
+      "reviews_total": 566,
+      "vat": "yes",
+      "score": 82,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "37 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 2,
+          "evidence": "12.7 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "28 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "4 accreditation(s): NICEIC - Approved Contractor;NICEIC - PAT Testing;NICEIC - Part-P Domestic Installer;Trustmark",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "downtoearthelectricalcontractorsltd",
+      "name": "Down To Earth Electrical Contractors",
+      "owner": "Mr Richard Moloney",
+      "structure": "limited",
+      "base_town": "London",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "86 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/downtoearthelectricalcontractorsltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 86,
+      "reviews_total": 614,
+      "vat": "yes",
+      "score": 79,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "86 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 2,
+          "evidence": "13.9 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 7,
+          "evidence": "24 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "2 accreditation(s): NICEIC - Approved Contractor;NICEIC - Part-P Domestic Installer",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "richardurielectricalservicesltd",
+      "name": "Richard Uri Electrical Services Ltd",
+      "owner": "Mr Richard Uri",
+      "structure": "limited",
+      "base_town": "Bromley",
+      "county": "United Kingdom",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "117 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/richardurielectricalservicesltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 117,
+      "reviews_total": 252,
+      "vat": "no",
+      "score": 78,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "117 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 15,
+          "evidence": "2.9 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 15,
+          "evidence": "quotable work: EV charger, rewires, consumer units",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "26 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 3,
+          "evidence": "1 accreditation(s): NICEIC - Part-P Domestic Installer",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "ramaelectricallimited",
+      "name": "Rama Electrical Limited",
+      "owner": "",
+      "structure": "limited",
+      "base_town": "Harrow",
+      "county": "Greater London",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "117 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/ramaelectricallimited",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 117,
+      "reviews_total": 631,
+      "vat": "no",
+      "score": 75,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "117 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 15,
+          "evidence": "3.5 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 15,
+          "evidence": "quotable work: EV charger, rewires, consumer units",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 7,
+          "evidence": "16 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 3,
+          "evidence": "1 accreditation(s): NICEIC - Part-P Domestic Installer",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "luxtricltd",
+      "name": "Luxtric Ltd",
+      "owner": "",
+      "structure": "limited",
+      "base_town": "Haringey United Kingdom",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "6 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/luxtricltd",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 6,
+      "reviews_total": 6,
+      "vat": "no",
+      "score": 73,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 13,
+          "evidence": "6 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 20,
+          "evidence": "0.2 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 20,
+          "evidence": "quotable work: EV charger, rewires, consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "31 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "2 accreditation(s): City & Guilds Qualified - Level 3;NAPIT - Electrical",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "handyexperts",
+      "name": "HandyExperts",
+      "owner": "Mr Dominic Chapman",
+      "structure": "limited",
+      "base_town": "Nationwide",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "167 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/handyexperts",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 167,
+      "reviews_total": 1126,
+      "vat": "yes",
+      "score": 70,
+      "band": "High",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "167 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 5,
+          "evidence": "7.3 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 5,
+          "evidence": "quotable work: consumer units",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 15,
+          "evidence": "VAT registered: turnover above GBP 90k threshold",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 10,
+          "evidence": "28 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "2 accreditation(s): Gas Safe Register;NAPIT - Electrical",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    },
+    {
+      "slug": "districtgroupservices",
+      "name": "District Group Services Ltd",
+      "owner": "Mr Jordan Hiatt",
+      "structure": "limited",
+      "base_town": "New Malden",
+      "county": "",
+      "status": "needs_verification",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "pass",
+          "evidence": "37 reviewed jobs in the last 12 months"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/districtgroupservices",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 37,
+      "reviews_total": 189,
+      "vat": "no",
+      "score": 69,
+      "band": "Medium",
+      "signals": [
+        {
+          "signal": "Job throughput",
+          "weight": 30,
+          "points": 30,
+          "evidence": "37 reviewed jobs in 12 months",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Business recency",
+          "weight": 20,
+          "points": 15,
+          "evidence": "2.8 yrs trading (Checkatrade member since (no CH record; may understate age))",
+          "source": "Companies House / Checkatrade"
+        },
+        {
+          "signal": "Quoting intensity",
+          "weight": 20,
+          "points": 10,
+          "evidence": "quotable work: consumer units, EICRs",
+          "source": "Checkatrade",
+          "confidence": "high"
+        },
+        {
+          "signal": "Revenue band",
+          "weight": 15,
+          "points": 5,
+          "evidence": "not VAT registered: turnover likely below GBP 90k",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Service breadth",
+          "weight": 10,
+          "points": 4,
+          "evidence": "6 services listed",
+          "source": "Checkatrade"
+        },
+        {
+          "signal": "Credibility",
+          "weight": 5,
+          "points": 5,
+          "evidence": "2 accreditation(s): NAPIT - Electrical;NAPIT - Electrical Inspector",
+          "source": "Checkatrade"
+        }
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "excluded": [
+    {
+      "slug": "adamelect",
+      "name": "Sorry, we can't find that page!",
+      "owner": "",
+      "structure": "",
+      "base_town": "",
+      "county": "",
+      "status": "excluded",
+      "gates": {
+        "owner_operator": {
+          "state": "unverified",
+          "evidence": "Limited company; no Companies House match resolved"
+        },
+        "actively_trading": {
+          "state": "fail",
+          "evidence": "No reviewed jobs in 12 months (last review )"
+        }
+      },
+      "checkatrade_url": "https://www.checkatrade.com/trades/adamelect",
+      "companies_house_url": "",
+      "ch_match_method": "",
+      "reviews_12mo": 0,
+      "reviews_total": 0,
+      "vat": "",
+      "score": null,
+      "band": "excluded"
+    }
+  ]
+}
